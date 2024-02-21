@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://stream.qhbtv.com/qhws/playlist.m3u8?_upt=ceb26cfe1708420244
+http://202.168.187.208:2024/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
