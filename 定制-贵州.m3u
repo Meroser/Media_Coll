@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="guizhou1" tvg-name="贵州公共" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou1.png" 
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou01.m3u8
+#EXTINF:-1 tvg-id="guizhou2" tvg-name="贵州文艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou2.png" group-title="地方特色",贵州文艺
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou02.m3u8
+#EXTINF:-1 tvg-id="guizhou3" tvg-name="贵州生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou3.png" group-title="地方特色",贵州生活
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou03.m3u8
+#EXTINF:-1 tvg-id="guizhou4" tvg-name="贵州旅游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou4.png" group-title="地方特色",贵州旅游
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou04.m3u8
+#EXTINF:-1 tvg-id="guizhou5" tvg-name="贵州科技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou5.png" group-title="地方特色",贵州科教
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou05.m3u8
+#EXTINF:-1 tvg-id="guizhou6" tvg-name="贵州经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou6.png" group-title="地方特色",贵州经济
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou06.m3u8
