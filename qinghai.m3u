@@ -5,3 +5,5 @@ http://stream.qhbtv.com/qhws/playlist.m3u8?_upt=ceb26cfe1708420244
 http://stream.qhbtv.com/qhds/playlist.m3u8?_upt=d7cacab71708420244
 #EXTINF:-1,青海经视
 http://stream.qhbtv.com/qhsh/playlist.m3u8?_upt=660f586a1708420244
+#EXTINF:-1,测试
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/test/main/1.m3u8
