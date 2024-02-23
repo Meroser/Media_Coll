@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="guizhou1" tvg-name="贵州公共" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou1.png" 
+#EXTINF:-1 tvg-id="guizhou1" tvg-name="贵州公共" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou1.png" group-title="地方特色",贵州公共
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou01.m3u8
 #EXTINF:-1 tvg-id="guizhou2" tvg-name="贵州文艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou2.png" group-title="地方特色",贵州文艺
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou02.m3u8
