@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="X01" tvg-logo="https://i.imgur.com/pbLpTrt.png" group-title="XXX",Silk.ru
+http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+#EXTINF:-1 tvg-id="X02" tvg-name="" tvg-logo="" group-title="XXX",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="X03" tvg-name="" tvg-logo="" group-title="XXX",Brazzers
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 tvg-id="X04" tvg-name="" tvg-logo="" group-title="XXX",Penthouse
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 tvg-id="X05" tvg-name="" tvg-logo="" group-title="XXX",Hustler
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1 tvg-id="X06" tvg-name="" tvg-logo="" group-title="XXX",Playboy1
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 tvg-id="X07" tvg-name="" tvg-logo="" group-title="XXX",Playboy2
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="X08" tvg-name="" tvg-logo="" group-title="XXX",Penthouse Gold
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-id="X09" tvg-name="" tvg-logo="" group-title="XXX",Redlight
+http://51.159.102.100/RedlightHD/index.m3u8
+#EXTINF:-1 tvg-id="X10" tvg-name="" tvg-logo="" group-title="XXX",Hustler HD
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+#EXTINF:-1 tvg-id="X11" tvg-name="" tvg-logo="" group-title="XXX",VIVID_RED
+http://37.48.101.149:7019/play/a027
