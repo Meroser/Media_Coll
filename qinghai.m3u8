@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=f5b05ae779e9c8fc02520cc62aab8bdd&wsTime=1708501212|Referer="https://static.hntv.tv/"|User-Agent="Test"
