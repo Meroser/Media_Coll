@@ -36,15 +36,15 @@ http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 
 # Adult 11个频道
-#EXTINF:-1 tvg-id="X01" tvg-name="" tvg-logo="" group-title="XXX",潘多拉玩美
+#EXTINF:-1 tvg-id="X01" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/045a5f9a-5f14-439e-b530-1403c253cc49.jpg" group-title="XXX",潘多拉玩美
 https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-#EXTINF:-1 tvg-id="X02" tvg-name="" tvg-logo="" group-title="XXX",香蕉台
+#EXTINF:-1 tvg-id="X02" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eae9b9b8-5e68-46f9-9e7b-88379f41861b.jpg" group-title="XXX",香蕉台
 https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-#EXTINF:-1 tvg-id="X03" tvg-name="" tvg-logo="" group-title="XXX",惊艳台
+#EXTINF:-1 tvg-id="X03" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="XXX",惊艳台
 https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-#EXTINF:-1 tvg-id="X04" tvg-name="" tvg-logo="" group-title="XXX",松视1台
+#EXTINF:-1 tvg-id="X04" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/11bc4a78-b8ce-45e5-973c-0a6119b30c3a.jpg" group-title="XXX",松视1台
 https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-#EXTINF:-1 tvg-id="X05" tvg-name="" tvg-logo="" group-title="XXX",松视2台
+#EXTINF:-1 tvg-id="X05" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/699bb22e-7d0b-4af6-b408-c9b294fdf3fc.jpg" group-title="XXX",松视2台
 https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
 #EXTINF:-1 tvg-id="X06" tvg-logo="https://i.imgur.com/pbLpTrt.png" group-title="XXX",Silk.ru
 http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
