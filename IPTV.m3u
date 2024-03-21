@@ -36,25 +36,35 @@ http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 
 # Adult 11个频道
-#EXTINF:-1 tvg-id="X01" tvg-logo="https://i.imgur.com/pbLpTrt.png" group-title="XXX",Silk.ru
+#EXTINF:-1 tvg-id="X01" tvg-name="" tvg-logo="" group-title="XXX",潘多拉玩美
+https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+#EXTINF:-1 tvg-id="X02" tvg-name="" tvg-logo="" group-title="XXX",香蕉台
+https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+#EXTINF:-1 tvg-id="X03" tvg-name="" tvg-logo="" group-title="XXX",惊艳台
+https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+#EXTINF:-1 tvg-id="X04" tvg-name="" tvg-logo="" group-title="XXX",松视1台
+https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+#EXTINF:-1 tvg-id="X05" tvg-name="" tvg-logo="" group-title="XXX",松视2台
+https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+#EXTINF:-1 tvg-id="X06" tvg-logo="https://i.imgur.com/pbLpTrt.png" group-title="XXX",Silk.ru
 http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
-#EXTINF:-1 tvg-id="X02" tvg-name="" tvg-logo="" group-title="XXX",Desire
+#EXTINF:-1 tvg-id="X07" tvg-name="" tvg-logo="" group-title="XXX",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="X03" tvg-name="" tvg-logo="" group-title="XXX",Brazzers
+#EXTINF:-1 tvg-id="X08" tvg-name="" tvg-logo="" group-title="XXX",Brazzers
 http://23.237.100.82:8000/BRAZZERS/index.m3u8
-#EXTINF:-1 tvg-id="X04" tvg-name="" tvg-logo="" group-title="XXX",Penthouse
+#EXTINF:-1 tvg-id="X09" tvg-name="" tvg-logo="" group-title="XXX",Penthouse
 http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 tvg-id="X05" tvg-name="" tvg-logo="" group-title="XXX",Hustler
+#EXTINF:-1 tvg-id="X10" tvg-name="" tvg-logo="" group-title="XXX",Hustler
 http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1 tvg-id="X06" tvg-name="" tvg-logo="" group-title="XXX",Playboy1
+#EXTINF:-1 tvg-id="X11" tvg-name="" tvg-logo="" group-title="XXX",Playboy1
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1 tvg-id="X07" tvg-name="" tvg-logo="" group-title="XXX",Playboy2
+#EXTINF:-1 tvg-id="X12" tvg-name="" tvg-logo="" group-title="XXX",Playboy2
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="X08" tvg-name="" tvg-logo="" group-title="XXX",Penthouse Gold
+#EXTINF:-1 tvg-id="X13" tvg-name="" tvg-logo="" group-title="XXX",Penthouse Gold
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 tvg-id="X09" tvg-name="" tvg-logo="" group-title="XXX",Redlight
+#EXTINF:-1 tvg-id="X14" tvg-name="" tvg-logo="" group-title="XXX",Redlight
 http://51.159.102.100/RedlightHD/index.m3u8
-#EXTINF:-1 tvg-id="X10" tvg-name="" tvg-logo="" group-title="XXX",Hustler HD
+#EXTINF:-1 tvg-id="X15" tvg-name="" tvg-logo="" group-title="XXX",Hustler HD
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
-#EXTINF:-1 tvg-id="X11" tvg-name="" tvg-logo="" group-title="XXX",VIVID_RED
+#EXTINF:-1 tvg-id="X16" tvg-name="" tvg-logo="" group-title="XXX",VIVID_RED
 http://37.48.101.149:7019/play/a027
