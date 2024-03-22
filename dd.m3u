@@ -1,0 +1,52 @@
+#EXTM3U
+# 国际 8个频道
+#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_News.png" group-title="国际"，RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT02" tvg-name="RT Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_Doc.png" group-title="国际"，RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际"，CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际"，CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN03" tvg-name="CGTN Français" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="国际"，CGTN Français
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN04" tvg-name="CGTN Русский" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="国际"，CGTN Русский
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN05" tvg-name="CGTN Español" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="国际"，CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际"，CGTN العربية
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
+# Adult 11个频道
+#EXTINF:-1 tvg-id="X01" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/045a5f9a-5f14-439e-b530-1403c253cc49.jpg" group-title="XXX",潘多拉玩美
+https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+#EXTINF:-1 tvg-id="X02" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eae9b9b8-5e68-46f9-9e7b-88379f41861b.jpg" group-title="XXX",香蕉台
+https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+#EXTINF:-1 tvg-id="X03" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="XXX",惊艳台
+https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+#EXTINF:-1 tvg-id="X04" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/11bc4a78-b8ce-45e5-973c-0a6119b30c3a.jpg" group-title="XXX",松视1台
+https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+#EXTINF:-1 tvg-id="X05" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/699bb22e-7d0b-4af6-b408-c9b294fdf3fc.jpg" group-title="XXX",松视2台
+https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+#EXTINF:-1 tvg-id="X06" tvg-logo="https://i.imgur.com/pbLpTrt.png" group-title="XXX",Silk.ru
+http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+#EXTINF:-1 tvg-id="X07" tvg-name="" tvg-logo="" group-title="XXX",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="X08" tvg-name="" tvg-logo="" group-title="XXX",Brazzers
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 tvg-id="X09" tvg-name="" tvg-logo="" group-title="XXX",Penthouse
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 tvg-id="X10" tvg-name="" tvg-logo="" group-title="XXX",Hustler
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1 tvg-id="X11" tvg-name="" tvg-logo="" group-title="XXX",Playboy1
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 tvg-id="X12" tvg-name="" tvg-logo="" group-title="XXX",Playboy2
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="X13" tvg-name="" tvg-logo="" group-title="XXX",Penthouse Gold
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-id="X14" tvg-name="" tvg-logo="" group-title="XXX",Redlight
+http://51.159.102.100/RedlightHD/index.m3u8
+#EXTINF:-1 tvg-id="X15" tvg-name="" tvg-logo="" group-title="XXX",Hustler HD
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+#EXTINF:-1 tvg-id="X16" tvg-name="" tvg-logo="" group-title="XXX",VIVID_RED
+http://37.48.101.149:7019/play/a027
