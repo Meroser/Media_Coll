@@ -65,3 +65,10 @@ http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 #EXTINF:-1 tvg-id="X06" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/699bb22e-7d0b-4af6-b408-c9b294fdf3fc.jpg" group-title="XXX",松视3台
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+
+#EXTINF:-1 tvg-id="X07" group-title="XXX",🔞奥視2
+http://125.227.210.55:55643/VideoInput/play.ts
+#EXTINF:-1 tvg-id="X08" group-title="XXX",🔞奥視3
+http://125.227.210.55:8917/VideoInput/play.ts
+#EXTINF:-1 tvg-id="X09" group-title="XXX",💖Sex❌Girl
+http://125.227.210.55:62698/VideoInput/play.ts
