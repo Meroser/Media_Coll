@@ -151,7 +151,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8
 #EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8
-#EXTINF:-1 tvg-id="Qiusuo4k" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="数字高清",求索纪录4K
+#EXTINF:-1 tvg-id="Qiusuo4k" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo5.png" group-title="数字高清",求索纪录4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="Qiusuo1" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="数字高清",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
@@ -264,13 +264,15 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040
 #EXTINF:-1 tvg-id="ytcq" tvg-name="弈坛春秋" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ytcq.png" group-title="数字高清",弈坛春秋
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#国际频道/20个频道
+#国际频道/16个频道
 #EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 #EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 #EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="国际时事",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC News"  group-title="国际时事",BBC News
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际时事",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际时事",CNA
@@ -312,7 +314,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
 #EXTINF:-1 tvg-id="HN07" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" group-title="湖南频道",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8
-#EXTINF:-1 tvg-id="HN08" group-title="湖南频道",湖南教育
+#EXTINF:-1 tvg-id="HN08" tvg-name="湖南教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan8.png" group-title="湖南频道",湖南教育
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/main.m3u8
 #EXTINF:-1 tvg-id="HN07" group-title="湖南频道",快乐购
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047427/main.m3u8
@@ -432,7 +434,7 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="地方特色",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
-# Adult 5个频道
+# Adult 6个频道
 #EXTINF:-1 tvg-id="X01" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/045a5f9a-5f14-439e-b530-1403c253cc49.jpg" group-title="🔞18+🔞",潘多拉玩美
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 #EXTINF:-1 tvg-id="X02" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eae9b9b8-5e68-46f9-9e7b-88379f41861b.jpg" group-title="🔞18+🔞",香蕉台
@@ -445,5 +447,3 @@ http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 #EXTINF:-1 tvg-id="X06" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/699bb22e-7d0b-4af6-b408-c9b294fdf3fc.jpg" group-title="🔞18+🔞",松视3台
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-#EXTINF:-1 tvg-id="X07" group-title="🔞18+🔞",奥視
-http://125.227.210.55:8917/VideoInput/play.ts
