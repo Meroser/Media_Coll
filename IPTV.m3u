@@ -52,6 +52,10 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 #EXTINF:-1 tvg-id="A26" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="央视高清",CETV-4 职业教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361368/main.m3u8
+#EXTINF:-1 tvg-id="A27",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="央视高清",早期教育
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32023060222354368427501888132813/main.m3u8
+#EXTINF:-1 tvg-id="A28",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="央视高清",中学生
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416093545217774427398013/main.m3u8
 
 #卫视高清/29个频道
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
@@ -136,12 +140,9 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007
 
 #卫视无资源
 #EXTINF:-1 tvg-id="B41" tvg-name="安多卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" group-title="卫视高清",安多卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182538/main.m3u8
 #EXTINF:-1 tvg-id="B42" tvg-name="农林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nonglin.png" group-title="卫视高清",农林卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182538/main.m3u8
 
 #数字高清/40个频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="数字高清",CHC影迷电影
@@ -160,25 +161,6 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="Qiusuo4" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="数字高清",求索生活
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
-#EXTINF:-1 tvg-id="hmdh" tvg-name="黑莓动画" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="数字高清",黑莓动画
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
-
-#EXTINF:-1 tvg-id="dbdj" tvg-name="哒啵电竞" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbdj.png" group-title="数字高清",哒啵电竞
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
-#EXTINF:-1 tvg-id="dbss" tvg-name="哒啵赛事" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbss.png" group-title="数字高清",哒啵赛事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-
-#EXTINF:-1 tvg-id="leyou" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png" group-title="数字高清",乐游
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210562120685964078060674/main.m3u8
-
-#EXTINF:-1 tvg-id="jsrw" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="数字高清",纪实人文
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-
-#EXTINF:-1 tvg-id="xc4k" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png" group-title="数字高清",纯享4K
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-
 #EXTINF:-1 tvg-id="CCTVfyjc" tvg-name="风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyjc.png" group-title="数字高清",风云剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244807/main.m3u8
 #EXTINF:-1 tvg-id="CCTVfyyy" tvg-name="风云音乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyyy.png" group-title="数字高清",风云音乐
@@ -203,6 +185,49 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244801/main.m3u8
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="数字高清",电视指南
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244797/main.m3u8
+
+#EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="数字高清",茶频道
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000316196/main.m3u8
+#EXTINF:-1 tvg-id="Klcd" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/klcd.png" group-title="数字高清",快乐垂钓
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
+#EXTINF:-1 tvg-id="Jyjs" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png" group-title="数字高清",金鹰纪实
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
+#EXTINF:-1 tvg-id="Jykt" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jykt.png" group-title="数字高清",金鹰卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8
+#EXTINF:-1 tvg-id="Xfpy" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/xfpy.png" group-title="数字高清",先锋乒羽
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182319/main.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
+#EXTINF:-1 tvg-id="hmdh" tvg-name="黑莓动画" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="数字高清",黑莓动画
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
+
+#EXTINF:-1 tvg-id="dbdj" tvg-name="哒啵电竞" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbdj.png" group-title="数字高清",哒啵电竞
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
+#EXTINF:-1 tvg-id="dbss" tvg-name="哒啵赛事" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbss.png" group-title="数字高清",哒啵赛事
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+
+#EXTINF:-1 tvg-id="leyou" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/leyou.png" group-title="数字高清",乐游
+http://tvgslb.hn.chinamobile.com:8089/180000001002/32024042210562120685964078060674/main.m3u8
+
+#EXTINF:-1 tvg-id="jsrw" tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="数字高清",纪实人文
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+
+#EXTINF:-1 tvg-id="xc4k" tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png" group-title="数字高清",纯享4K
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="dsjc" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png" group-title="数字高清",都市剧场
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/main.m3u8
 #EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsxt.png" group-title="数字高清",金色学堂
@@ -272,17 +297,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305
 #EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305587/main.m3u8
 
-#湖南/14个频道
-#EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="湖南频道",茶频道
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000025000000316196/main.m3u8
-#EXTINF:-1 tvg-id="Klcd" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/klcd.png" group-title="湖南频道",快乐垂钓
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
-#EXTINF:-1 tvg-id="Jyjs" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png" group-title="湖南频道",金鹰纪实
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
-#EXTINF:-1 tvg-id="Jykt" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jykt.png" group-title="湖南频道",金鹰卡通
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8
-#EXTINF:-1 tvg-id="Xfpy" tvg-name="先锋乒羽" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/xfpy.png" group-title="湖南频道",先锋乒羽
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182319/main.m3u8
+#湖南/36个频道
 #EXTINF:-1 tvg-id="HN01" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" group-title="湖南频道",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000002000000113182/main.m3u8
 #EXTINF:-1 tvg-id="HN02" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" group-title="湖南频道",湖南都市
@@ -297,67 +312,63 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
 #EXTINF:-1 tvg-id="HN07" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" group-title="湖南频道",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8
-
-#EXTINF:-1 group-title="湖南频道",湖南教育高清
+#EXTINF:-1 tvg-id="HN08" group-title="湖南频道",湖南教育
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/main.m3u8
-
-#EXTINF:-1 group-title="湖南频道",快乐购高清
+#EXTINF:-1 tvg-id="HN07" group-title="湖南频道",快乐购
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047427/main.m3u8
-
-
-#EXTINF:-1 tvg-id="HN08" tvg-name="长沙新闻" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/csxw.png" group-title="湖南频道",长沙新闻
+#EXTINF:-1 tvg-id="HN09" tvg-name="长沙新闻" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/csxw.png" group-title="湖南频道",长沙新闻
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047429/main.m3u8
-#EXTINF:-1 tvg-id="HN09" tvg-name="长沙政法" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/cszf.png" group-title="湖南频道",长沙政法
+#EXTINF:-1 tvg-id="HN10" tvg-name="长沙政法" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/cszf.png" group-title="湖南频道",长沙政法
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/main.m3u8
-#EXTINF:-1 tvg-id="HN10" tvg-name="长沙文旅" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/cswl.png" group-title="湖南频道",长沙文旅
+#EXTINF:-1 tvg-id="HN11" tvg-name="长沙文旅" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/cswl.png" group-title="湖南频道",长沙文旅
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024050609475789931438327485597/main.m3u8
-#EXTINF:-1,嘉丽购高清
+#EXTINF:-1 tvg-id="HN12" group-title="湖南频道",嘉丽购
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047453/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000008000000047450",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",株洲新闻综合
+#EXTINF:-1 tvg-id="HN13",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",株洲新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047450/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000008000000047451",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",湘潭新闻综合
+#EXTINF:-1 tvg-id="HN14",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",湘潭新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047451/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000032000000431041",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",衡阳新闻综合
+#EXTINF:-1 tvg-id="HN15",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",衡阳新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000032000000431041/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000032000000431042",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",衡阳公共
+#EXTINF:-1 tvg-id="HN16",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",衡阳公共
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000032000000431042/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000035000000442109",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",邵阳新闻综合高清
+#EXTINF:-1 tvg-id="HN17",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",邵阳新闻综合高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000035000000442109/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000035000000442111",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",邵阳公共高清
+#EXTINF:-1 tvg-id="HN18",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",邵阳公共高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000035000000442111/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000015000000071030",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",岳阳新闻综合高清
+#EXTINF:-1 tvg-id="HN19",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",岳阳新闻综合高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071030/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000015000000071035",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",岳阳晴彩公共高清
+#EXTINF:-1 tvg-id="HN20",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",岳阳晴彩公共高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000015000000071035/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000014000000153736",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",常德新闻
+#EXTINF:-1 tvg-id="HN22",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",常德新闻
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000014000000153736/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000024000000270433",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",张家界新闻综合
+#EXTINF:-1 tvg-id="HN23",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",张家界新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000270433/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000024000000270434",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",张家界公共
+#EXTINF:-1 tvg-id="HN24",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",张家界公共
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000270434/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000033000000121664",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",益阳新闻综合高清
+#EXTINF:-1 tvg-id="HN25",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",益阳新闻综合高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121664/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000033000000121665",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",益阳公共
+#EXTINF:-1 tvg-id="HN26",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",益阳公共
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000033000000121665/main.m3u8
-#EXTINF:-1 tvg-id="32024041109210554359100182250274",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",郴州公共高清
+#EXTINF:-1 tvg-id="HN27",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",郴州公共高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/32024041109210554359100182250274/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000031000000253555",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",郴州新闻综合高清
+#EXTINF:-1 tvg-id="HN28",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",郴州新闻综合高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000253555/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000070000000360264",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",永州新闻综合
+#EXTINF:-1 tvg-id="HN29",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",永州新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000070000000360264/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000070000000360265",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",永州公共
+#EXTINF:-1 tvg-id="HN30",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",永州公共
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000070000000360265/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000016000000287147",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",怀化新闻综合
+#EXTINF:-1 tvg-id="HN31",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",怀化新闻综合
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000287147/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000033000000401158",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",娄底综合
+#EXTINF:-1 tvg-id="HN32",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",娄底综合
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000033000000401158/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000033000000401159",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",娄底公共
+#EXTINF:-1 tvg-id="HN33",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",娄底公共
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000401159/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000033000000401171",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",娄底教育
+#EXTINF:-1 tvg-id="HN34",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",娄底教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000033000000401171/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000016000000007222",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",湘西新闻综合高清
+#EXTINF:-1 tvg-id="HN35",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",湘西新闻综合高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007222/main.m3u8
-#EXTINF:-1 tvg-id="00000001000000000016000000007221",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",湘西公共高清
+#EXTINF:-1 tvg-id="HN36",tvg-logo="http://otthnydimg.yys.mgtv.com:6600/picture/zypt/pic/2021/11/11/20211111093955.png" group-title="湖南频道",湘西公共高清
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007221/main.m3u8
 
 #地方特色
@@ -420,3 +431,19 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="地方特色",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
+
+# Adult 5个频道
+#EXTINF:-1 tvg-id="X01" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/045a5f9a-5f14-439e-b530-1403c253cc49.jpg" group-title="🔞18+🔞",潘多拉玩美
+http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+#EXTINF:-1 tvg-id="X02" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/eae9b9b8-5e68-46f9-9e7b-88379f41861b.jpg" group-title="🔞18+🔞",香蕉台
+http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+#EXTINF:-1 tvg-id="X03" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/77b55449-8e18-4dcb-8c2d-a45c5ee715f1.jpg" group-title="🔞18+🔞",惊艳台
+http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+#EXTINF:-1 tvg-id="X04" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/11bc4a78-b8ce-45e5-973c-0a6119b30c3a.jpg" group-title="🔞18+🔞",松视1台
+http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+#EXTINF:-1 tvg-id="X05" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/699bb22e-7d0b-4af6-b408-c9b294fdf3fc.jpg" group-title="🔞18+🔞",松视2台
+http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+#EXTINF:-1 tvg-id="X06" tvg-name="" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/699bb22e-7d0b-4af6-b408-c9b294fdf3fc.jpg" group-title="🔞18+🔞",松视3台
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+#EXTINF:-1 tvg-id="X07" group-title="🔞18+🔞",奥視
+http://125.227.210.55:8917/VideoInput/play.ts
