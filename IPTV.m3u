@@ -463,15 +463,51 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Heilongjiang6.png" group-title="地方特色",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
-# 海南/4个频道 海南IPv6
+# 海南/5个频道 海南广电网页php代理源
 #EXTINF:-1 tvg-name="海南自贸" group-title="地方特色",海南自贸
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
-#EXTINF:-1 tvg-name="海南文旅" group-title="地方特色",海南文旅 
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
-#EXTINF:-1 tvg-name="海南少儿" group-title="地方特色",海南少儿 
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
+http://10.10.10.100/hainan.php?id=hnzm
+#EXTINF:-1 tvg-name="海南新闻" group-title="地方特色",海南新闻
+http://10.10.10.100/hainan.php?id=hnxw
 #EXTINF:-1 tvg-name="海南公共" group-title="地方特色",海南公共
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+http://10.10.10.100/hainan.php?id=hngg
+#EXTINF:-1 tvg-name="海南文旅" group-title="地方特色",海南文旅
+http://10.10.10.100/hainan.php?id=hnwl
+#EXTINF:-1 tvg-name="海南少儿" group-title="地方特色",海南少儿
+http://10.10.10.100/hainan.php?id=hnse
+
+# 河南/11个频道 河南广电网页php代理源
+#EXTINF:-1 tvg-name="河南新闻" group-title="地方特色",河南新闻
+http://10.10.10.100/henan.php?id=hnxw
+#EXTINF:-1 tvg-name="河南都市" group-title="地方特色",河南都市
+http://10.10.10.100/henan.php?id=hnds
+#EXTINF:-1 tvg-name="河南民生" group-title="地方特色",河南民生
+http://10.10.10.100/henan.php?id=hnms
+#EXTINF:-1 tvg-name="河南法制" group-title="地方特色",河南法制
+http://10.10.10.100/henan.php?id=hnfz
+#EXTINF:-1 tvg-name="河南公共" group-title="地方特色",河南公共
+http://10.10.10.100/henan.php?id=hngg
+#EXTINF:-1 tvg-name="河南乡村" group-title="地方特色",河南乡村
+http://10.10.10.100/henan.php?id=hnxc
+#EXTINF:-1 tvg-name="河南电视剧" group-title="地方特色",河南电视剧
+http://10.10.10.100/henan.php?id=hndsj
+#EXTINF:-1 tvg-name="河南国际" group-title="地方特色",河南国际
+http://10.10.10.100/henan.php?id=hngj
+#EXTINF:-1 tvg-name="睛彩中原" group-title="地方特色",睛彩中原
+http://10.10.10.100/henan.php?id=jczy
+#EXTINF:-1 tvg-name="移动戏曲" group-title="地方特色",移动戏曲
+http://10.10.10.100/henan.php?id=ydxq
+#EXTINF:-1 tvg-name="象视界" group-title="地方特色",象视界
+http://10.10.10.100/henan.php?id=xsj
+
+# 重庆/1个频道 重庆广电网页php代理源
+#EXTINF:-1 tvg-name="重庆新闻" group-title="地方特色",重庆新闻
+http://10.10.10.100/cq.php?id=cqxw
+
+# 青海/2个频道
+#EXTINF:-1 tvg-id="Qinghai01" tvg-name="青海经视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Qinghai1.png" group-title="地方特色",青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8
+#EXTINF:-1 tvg-id="Qinghai02" tvg-name="青海都市" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Qinghai2.png" group-title="地方特色",青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8
 
 # 内蒙古/5个频道 官方网站
 #EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方特色",内蒙新闻
@@ -485,7 +521,7 @@ https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62f
 #EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" group-title="地方特色",内蒙农牧
 https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 
-# 河北/7个频道 官方网站
+# 河北/6个频道 官方网站
 #EXTINF:-1 tvg-id="Hebei01" tvg-name="河北经济生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hebei1.png" group-title="地方特色",河北经济生活
 http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
 #EXTINF:-1 tvg-id="Hebei02" tvg-name="河北都市" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hebei2.png" group-title="地方特色",河北都市
@@ -498,8 +534,6 @@ http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3d
 http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
 #EXTINF:-1 tvg-id="Hebei06" tvg-name="河北农民" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",河北农民
 http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
-#EXTINF:-1 tvg-id="Hebei07" tvg-name="河北三佳购物" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",河北三佳购物
-http://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=2510710360&k=13d8a0c69ef0817e26d7e9ce7304701e
 
 # Adult 6个频道 svi-studio订阅
 #EXTINF:-1 tvg-id="X01" tvg-name="潘多拉完美" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/045a5f9a-5f14-439e-b530-1403c253cc49.jpg" group-title="🔞禁🔞",潘多拉完美
