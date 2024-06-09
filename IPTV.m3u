@@ -492,15 +492,15 @@ http://10.10.10.100/guizhou.php?id=gzjj
 http://10.10.10.100/guizhou.php?id=gzyd
 
 # 甘肃/5个频道 甘肃广电网页源
-#EXTINF:-1,甘肃经济
+#EXTINF:-1 group-title="地方特色",甘肃经济
 https://hls.gstv.com.cn/49048r/10iv1j.m3u8
-#EXTINF:-1,甘肃文化影视
+#EXTINF:-1 group-title="地方特色",甘肃文化影视
 https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-#EXTINF:-1,甘肃公共应急
+#EXTINF:-1 group-title="地方特色",甘肃公共应急
 https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-#EXTINF:-1,甘肃少儿
+#EXTINF:-1 group-title="地方特色",甘肃少儿
 https://hls.gstv.com.cn/49048r/922k96.m3u8
-#EXTINF:-1,甘肃都市
+#EXTINF:-1 group-title="地方特色",甘肃都市
 https://hls.gstv.com.cn/49048r/l54391.m3u8
 
 # 河南/11个频道 河南广电网页php代理源
