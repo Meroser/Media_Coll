@@ -475,6 +475,34 @@ http://10.10.10.100/hainan.php?id=hnwl
 #EXTINF:-1 tvg-name="海南少儿" group-title="地方特色",海南少儿
 http://10.10.10.100/hainan.php?id=hnse
 
+# 贵州/7个频道 贵州广电网页php代理源
+#EXTINF:-1 tvg-name="贵州公共" group-title="地方特色",贵州公共
+http://10.10.10.100/guizhou.php?id=gzgg
+#EXTINF:-1 tvg-name="贵州影视" group-title="地方特色",贵州影视
+http://10.10.10.100/guizhou.php?id=gzys
+#EXTINF:-1 tvg-name="贵州生活" group-title="地方特色",贵州生活
+http://10.10.10.100/guizhou.php?id=gzsh
+#EXTINF:-1 tvg-name="贵州乡村" group-title="地方特色",贵州乡村
+http://10.10.10.100/guizhou.php?id=gzxc
+#EXTINF:-1 tvg-name="贵州科教" group-title="地方特色",贵州科教
+http://10.10.10.100/guizhou.php?id=gzkj
+#EXTINF:-1 tvg-name="贵州经济" group-title="地方特色",贵州经济
+http://10.10.10.100/guizhou.php?id=gzjj
+#EXTINF:-1 tvg-name="贵州移动电视" group-title="地方特色",贵州移动电视
+http://10.10.10.100/guizhou.php?id=gzyd
+
+# 甘肃/5个频道 甘肃广电网页源
+#EXTINF:-1,甘肃经济
+https://hls.gstv.com.cn/49048r/10iv1j.m3u8
+#EXTINF:-1,甘肃文化影视
+https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
+#EXTINF:-1,甘肃公共应急
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+#EXTINF:-1,甘肃少儿
+https://hls.gstv.com.cn/49048r/922k96.m3u8
+#EXTINF:-1,甘肃都市
+https://hls.gstv.com.cn/49048r/l54391.m3u8
+
 # 河南/11个频道 河南广电网页php代理源
 #EXTINF:-1 tvg-name="河南新闻" group-title="地方特色",河南新闻
 http://10.10.10.100/henan.php?id=hnxw
