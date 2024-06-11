@@ -563,6 +563,56 @@ http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb394
 #EXTINF:-1 tvg-id="Hebei06" tvg-name="河北农民" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",河北农民
 http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
 
+# NewTV/24个频道 浙江移动
+#EXTINF:-1 tvg-id="NewTVdbrj" tvg-name="NewTV东北热剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="NewTVzggf" tvg-name="NewTV中国功夫" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV中国功夫
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjspl" tvg-name="NewTV军事评论" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV军事评论
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjljc" tvg-name="NewTV军旅剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="NewTVnyzf" tvg-name="NewTV农业致富" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV农业致富
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-id="NewTVdzdy" tvg-name="NewTV动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjtjc" tvg-name="NewTV家庭剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV家庭剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="NewTVybjk" tvg-name="NewTV怡伴健康" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV怡伴健康
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjsxy" tvg-name="NewTV惊悚悬疑" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="NewTVmydp" tvg-name="NewTV明星大片" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV明星大片
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="NewTVhljc" tvg-name="NewTV欢乐剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="NewTVwbsj" tvg-name="NewTV武搏世界" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV武搏世界
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="NewTVhwjc" tvg-name="NewTV海外剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV海外剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcmlp" tvg-name="NewTV潮妈辣婆" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV潮妈辣婆
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-id="NewTVaqxj" tvg-name="NewTV爱情喜剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpdj" tvg-name="NewTV精品大剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpjl" tvg-name="NewTV精品纪录" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV精品纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpty" tvg-name="NewTV精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcjty" tvg-name="NewTV超级体育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcjdy" tvg-name="NewTV超级电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcjdsj" tvg-name="NewTV超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpzy" tvg-name="NewTV金牌综艺" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV金牌综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpmc" tvg-name="NewTV精品萌宠" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV精品萌宠
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+
 # Adult 6个频道 svi-studio订阅
 #EXTINF:-1 tvg-id="X01" tvg-name="潘多拉完美" tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/045a5f9a-5f14-439e-b530-1403c253cc49.jpg" group-title="🔞禁🔞",潘多拉完美
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
