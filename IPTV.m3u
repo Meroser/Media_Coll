@@ -518,8 +518,6 @@ http://10.10.10.100/henan.php?id=hngg
 http://10.10.10.100/henan.php?id=hnxc
 #EXTINF:-1 tvg-name="河南电视剧" group-title="地方特色",河南电视剧
 http://10.10.10.100/henan.php?id=hndsj
-#EXTINF:-1 tvg-name="河南国际" group-title="地方特色",河南国际
-http://10.10.10.100/henan.php?id=hngj
 #EXTINF:-1 tvg-name="睛彩中原" group-title="地方特色",睛彩中原
 http://10.10.10.100/henan.php?id=jczy
 #EXTINF:-1 tvg-name="移动戏曲" group-title="地方特色",移动戏曲
@@ -562,6 +560,26 @@ http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3d
 http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
 #EXTINF:-1 tvg-id="Hebei06" tvg-name="河北农民" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",河北农民
 http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
+
+# 福建/9个频道 官方网站
+#EXTINF:-1 tvg-id="Fujianse" tvg-name="少儿频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",福建少儿
+http://10.10.10.100/fujian.php?id=fjse
+#EXTINF:-1 tvg-id="hxws" tvg-name="海峡卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",海峡卫视
+http://10.10.10.100/fujian.php?id=hxws
+#EXTINF:-1 tvg-id="Fujianzh" tvg-name="福建综合" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",福建综合
+http://10.10.10.100/fujian.php?id=fjzh
+#EXTINF:-1 tvg-id="dnws" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",东南卫视
+http://10.10.10.100/fujian.php?id=dnws
+#EXTINF:-1 tvg-id="Fujiangg" tvg-name="福建公共" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",福建公共
+http://10.10.10.100/fujian.php?id=fjgg
+#EXTINF:-1 tvg-id="Fujiandsj" tvg-name="福建电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",福建电视剧
+http://10.10.10.100/fujian.php?id=fjdsj
+#EXTINF:-1 tvg-id="Fujianly" tvg-name="福建旅游" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",福建旅游
+http://10.10.10.100/fujian.php?id=fjly
+#EXTINF:-1 tvg-id="Fujianjj" tvg-name="福建经视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",福建经视
+http://10.10.10.100/fujian.php?id=fjjj
+#EXTINF:-1 tvg-id="Fujianwt" tvg-name="福建文体" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="地方特色",福建文体
+http://10.10.10.100/fujian.php?id=fjwt
 
 # NewTV/25个频道 黑龙江移动
 #EXTINF:-1 tvg-id="NewTVdbrj" tvg-name="NewTV东北热剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV东北热剧
