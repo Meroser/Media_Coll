@@ -391,7 +391,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC News" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/BBC.png" group-title="国际时事",BBC News
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/NHKWorld.png" group-title="国际时事",NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/ChannelAsia.png" group-title="国际时事",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/International/AlJazeera.png" group-title="国际时事",AlJazeera
