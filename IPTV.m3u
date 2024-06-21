@@ -43,7 +43,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305
 #EXTINF:-1 tvg-id="A21" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4K.png" group-title="央视高清",CCTV-4K 超高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
 #EXTINF:-1 tvg-id="A22" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV8K.png" group-title="央视高清",CCTV-8K 超高清
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8
 #EXTINF:-1 tvg-id="A23" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CETV1.png" group-title="央视高清",CETV-1 综合教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/main.m3u8
 #EXTINF:-1 tvg-id="A24" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CETV2.png" group-title="央视高清",CETV-2 空中课堂
