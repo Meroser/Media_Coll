@@ -546,7 +546,14 @@
             "key": "白嫖",
             "name": "🤺💯py白嫖 ┃ 影视",
             "type": 3,
-            "api": "https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@star/py_白嫖.py"
+            "api": "https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@star/py_live",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,          
         },
         {
             "key": "小学课堂",
