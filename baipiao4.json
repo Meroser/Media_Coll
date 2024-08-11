@@ -15,11 +15,11 @@
             "key": "hipy_t3_两个BT",
             "name": "两个BT(hipy_t3)",
             "type": 3,
-            "api": "https://github.com/xzqcsa/ysc/blob/master/xzqzy/py/%E4%B8%A4%E4%B8%AABT.py",
+            "api": "https://cdn.jsdelivr.net/gh/xzqcsa/ysc@master/xzqzy/py/%E4%B8%A4%E4%B8%AABT.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://github.com/xzqcsa/ysc/blob/master/xzqzy/py/%E4%B8%A4%E4%B8%AABT.json"
+            "ext": "https://cdn.jsdelivr.net/gh/xzqcsa/ysc@master/xzqzy/py/%E4%B8%A4%E4%B8%AABT.json"
         },
         {
             "key": "玩偶",
