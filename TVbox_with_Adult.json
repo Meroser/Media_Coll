@@ -304,20 +304,27 @@
             "api": "https://91md.me/api.php/provide/vod/",
             "style": {
                 "type": "rect",
-                "ratio": 1.33
+                "ratio": 1.78
             }
         },
         {
             "key": "senlin",
             "name": "🔞森林资源┃AV",
             "type": 1,
-            "api": "https://slapibf.com/api.php/provide/vod/"
+            "api": "https://slapibf.com/api.php/provide/vod/",
+            "style": {
+                "type": "oval",
+                "ratio": 1.1
+            }
         },
         {
             "key": "tantan",
             "name": "🔞探探资源┃AV",
             "type": 1,
-            "api": "https://apittzy.com/api.php/provide/vod/"
+            "api": "https://apittzy.com/api.php/provide/vod/",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "aosika",
