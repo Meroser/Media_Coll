@@ -298,160 +298,94 @@
             "changeable": 1
         },
         {
-            "key": "av01",
+            "key": "senlin",
             "name": "🔞森林资源┃AV",
             "type": 1,
             "api": "https://slapibf.com/api.php/provide/vod/"
         },
         {
-            "key": "av02",
+            "key": "tantan",
             "name": "🔞探探资源┃AV",
             "type": 1,
             "api": "https://apittzy.com/api.php/provide/vod/"
         },
         {
-            "key": "av03",
+            "key": "aosika",
             "name": "🔞奥斯卡资源┃AV",
             "type": 1,
             "api": "https://aosikazy.com/api.php/provide/vod/"
         },
         {
-            "key": "av04",
+            "key": "laoya",
             "name": "🔞老鸭资源┃AV",
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/"
         },
         {
-            "key": "av05",
-            "name": "🔞皇冠┃AV",
-            "type": 1,
-            "api": "https://hghhh.com/api.php/provide/vod/"
-        },
-        {
-            "key": "av06",
+            "key": "91md",
             "name": "🔞91麻豆┃AV",
             "type": 1,
             "api": "https://91md.me/api.php/provide/vod/"
         },
         {
-            "key": "av07",
+            "key": "yikan",
             "name": "🔞易看资源┃AV",
             "type": 1,
             "api": "https://api.yikanapi.com/api.php/provide/vod/"
         },
         {
-            "key": "av08",
-            "name": "🔞皇冠资源┃AV",
-            "type": 1,
-            "api": "https://hghhh.com/api.php/provide/vod/"
-        },
-        {
-            "key": "av09",
-            "name": "🔞91md┃AV",
-            "type": 1,
-            "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/"
-        },
-        {
-            "key": "av10",
+            "key": "fanhao",
             "name": "🔞番号资源┃AV",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/"
         },
         {
-            "key": "av11",
+            "key": "shayu",
             "name": "🔞鲨鱼资源┃AV",
             "type": 1,
             "api": "https://shayuapi.com/api.php/provide/vod/"
         },
         {
-            "key": "av12",
+            "key": "kkxz",
             "name": "🔞KK写真资源┃AV",
             "type": 1,
             "api": "https://kkzy.me/api.php/provide/vod/"
         },
         {
-            "key": "av13",
+            "key": "aivin",
             "name": "🔞AIvin┃AV",
             "type": 1,
             "api": "http://lbapiby.com/api.php/provide/vod/at/json"
         },
         {
-            "key": "av14",
-            "name": "🔞好色资源┃AV",
-            "type": 1,
-            "api": "https://haosezyw.com/api.php/provide/vod/"
-        },
-        {
-            "key": "av15",
-            "name": "🔞最色资源┃AV",
-            "type": 1,
-            "api": "https://zszyw.top/api.php/provide/vod/"
-        },
-        {
-            "key": "av16",
-            "name": "🔞色色虎资源┃AV",
-            "type": 1,
-            "api": "https://apisesehuzy.com/api.php/provide/vod/"
-        },
-        {
-            "key": "av17",
+            "key": "黄瓜",
             "name": "🔞黄瓜资源┃AV",
             "type": 1,
             "api": "https://www.zy018.com/api.php/provide/vod/"
         },
         {
-            "key": "av18",
+            "key": "yutu",
             "name": "🔞玉兔资源┃AV",
             "type": 1,
             "api": "https://apiyutu.com/api.php/provide/vod/"
         },
         {
-            "key": "av19",
-            "name": "🔞麻豆视频┃AV",
-            "type": 1,
-            "api": "http://www.madouse.la/api.php/provide/vod/"
-        },
-        {
-            "key": "av20",
+            "key": "lajiao",
             "name": "🔞辣椒资源┃AV",
             "type": 1,
             "api": "https://apilj.com/api.php/provide/vod/"
         },
         {
-            "key": "av21",
-            "name": "🔞甜蜜资源┃AV",
-            "type": 1,
-            "api": "https://timizy10.cc/api.php/provide/vod/"
-        },
-        {
-            "key": "av22",
+            "key": "naixiang",
             "name": "🔞奶香香┃AV",
             "type": 1,
             "api": "https://Naixxzy.com/api.php/provide/vod/"
         },
         {
-            "key": "av23",
+            "key": "jingpin",
             "name": "🔞精品资源┃AV",
             "type": 1,
             "api": "https://www.jingpinx.com/api.php/provide/vod/"
-        },
-        {
-            "key": "av24",
-            "name": "🔞甜蜜资源┃AV",
-            "type": 1,
-            "api": "https://timizy10.cc/api.php/provide/vod/"
-        },
-        {
-            "key": "av25",
-            "name": "🔞草榴资源┃AV",
-            "type": 1,
-            "api": "https://www.caoliuzyw.com/api.php/prodao/vod/"
-        },
-        {
-            "key": "av26",
-            "name": "🔞老色逼资源┃AV",
-            "type": 1,
-            "api": "https://apilsbzy1.com/api.php/provide/vod/"
         }
     ],
     "logo": "https://mirror.ghproxy.com/raw.githubusercontent.com/Meroser/Media_Coll/main/TVlogo/mgtv_logo.png",
