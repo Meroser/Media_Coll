@@ -298,6 +298,16 @@
             "changeable": 1
         },
         {
+            "key": "91md",
+            "name": "🔞91麻豆┃AV",
+            "type": 1,
+            "api": "https://91md.me/api.php/provide/vod/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
+        },
+        {
             "key": "senlin",
             "name": "🔞森林资源┃AV",
             "type": 1,
@@ -320,12 +330,6 @@
             "name": "🔞老鸭资源┃AV",
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/"
-        },
-        {
-            "key": "91md",
-            "name": "🔞91麻豆┃AV",
-            "type": 1,
-            "api": "https://91md.me/api.php/provide/vod/"
         },
         {
             "key": "yikan",
