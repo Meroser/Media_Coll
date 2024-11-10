@@ -1,38 +1,32 @@
 {
-    "sites": [	
-        { "id": "360", "name": "360|点播", "type": 1, "api": "https://360zy.com/api.php/provide/vod/" },
-        { "id": "mdzyapi", "name": "墨斗|点播", "type": 1, "api": "https://www.mdzyapi.com/api.php/provide/vod/" },
-        { "id": "heimuer", "name": "黑木耳|点播", "type": 1, "api": "https://json02.heimuer.xyz/api.php/provide/vod/" },
-        { "id": "hw8", "name": "华为吧|点播", "type": 1, "api": "https://hw8.live/api.php/provide/vod/" },
-        { "id": "fuju", "name": "腐剧|点播", "type": 1, "api": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod/" },
-        { "id": "jinying", "name": "金鹰|点播", "type": 1, "api": "https://jinyingzy.com/api.php/provide/vod/" },
-        { "id": "okzyw", "name": "OK|点播", "type": 1, "api": "https://okzyw9.com/api.php/provide/vod/" },
-        { "id": "baopian", "name": "宝片|点播", "type": 1, "api": "https://zpsps.com/api.php/provide/vod/" },
-        { "id": "xiaohuangren", "name": "小黄人|点播", "type": 1, "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/" },
-        { "id": "niuniu", "name": "牛牛|点播", "type": 1, "api": "https://api.niuniuzy.me/api.php/provide/vod/" },
-        { "id": "yayazy", "name": "丫丫|点播", "type": 1, "api": "https://cj.yayazy.net/api.php/provide/vod/" },
-        { "id": "yingyu", "name": "影图|点播", "type": 1, "api": "https://cj.vodimg.top/api.php/provide/vod/" },
-        { "id": "Uku", "name": "U酷|点播", "type": 1, "api": "https://api.ukuapi.com/api.php/provide/vod/" },
-        { "id": "hanghua", "name": "豪华|点播", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod" },
-        { "id": "jisu", "name": "极速|点播", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod" },
-        { "id": "suoni", "name": "索尼|点播", "type": 1, "api": "https://suoniapi.com/api.php/provide/vod/" },
-        { "id": "ikun", "name": "ikun|点播", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/" },
-        { "id": "feifan", "name": "非凡|点播", "type": 1, "api": "http://cj.ffzyapi.com/api.php/provide/vod/" },
-        { "id": "laignzi", "name": "量子|点播", "type": 1, "api": "https://cj.lziapi.com/api.php/provide/vod/" },
-        { "id": "baofeng", "name": "暴风|点播", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/" },
-        { "id": "hongniu", "name": "红牛|点播", "type": 1, "api": "https://www.hongniuzy2.com/api.php/provide/vod/" },
-        { "id": "kuaiche", "name": "快车|点播", "type": 1, "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/" },
-        { "id": "shandian", "name": "闪电|点播", "type": 1, "api": "http://sdzyapi.com/api.php/provide/vod/" },
-        { "id": "yinghua", "name": "樱花|点播", "type": 1, "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/" },
-        { "id": "wolong", "name": "卧龙|点播", "type": 1, "api": "https://collect.wolongzyw.com/api.php/provide/vod/" },
-        { "id": "piaohua", "name": "飘花|点播", "type": 1, "api": "http://www.ahjiuman.com/api.php/provide/vod/at/json" },
-        { "id": "huya", "name": "虎牙|点播", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/" },
-        { "id": "piaoling", "name": "飘零|点播", "type": 1, "api": "https://p2100.net/api.php/provide/vod/" },
-        { "id": "wujin", "name": "无尽|点播", "type": 1, "api": "https://api.wujinapi.com/api.php/provide/vod/" },
-        { "id": "subo", "name": "速博|点播", "type": 1, "api": "https://subocaiji.com/api.php/provide/vod/" },
-        { "id": "modu", "name": "魔都|点播", "type": 1, "api": "https://caiji.moduapi.cc/api.php/provide/vod/" },
-        { "id": "zuida", "name": "最大|点播", "type": 1, "api": "http://zuidazy.me/api.php/provide/vod/" },
-        { "id": "huohu", "name": "火狐|点播", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/" },
-        { "id": "xinlang", "name": "新浪|点播", "type": 1, "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/" }
-    ]
+  "tbl_site": [
+    {
+      "name": "黑木耳",
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "heimuer"
+    }
+  ],
+  "tbl_iptv": [
+    {
+      "name": "IPTV-hnyd",
+      "url": "https://raw.githubusercontent.com/Meroser/Media_Coll/refs/heads/star/IPTV.m3u",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": "IPTV-hnyd"
+    }
+  ],
+  "tbl_channel": [],
+  "tbl_analyze": [],
+  "tbl_drive": [],
+  "tbl_history": [],
+  "tbl_star": [],
+  "tbl_setting": []
 }
