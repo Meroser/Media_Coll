@@ -235,32 +235,20 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244810/main.m3u8
 #EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVystq.png" group-title="数字高清",央视台球
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244803/main.m3u8
-#EXTINF:-1 tvg-id="CCTVgefwq" tvg-name="高尔夫网球" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVgefwq.png" group-title="数字高清",高尔夫网球
+#EXTINF:-1 tvg-id="CCTVysgw" tvg-name="央视高网" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVgefwq.png" group-title="数字高清",高尔夫网球
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244801/main.m3u8
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CCTVdszn.png" group-title="数字高清",电视指南
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244797/main.m3u8
 
 # CHC系列/3个频道 湖南移动
-#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCymdy.png" group-title="数字高清",CHC影迷电影
+#EXTINF:-1 tvg-id="CHCymdy" tvg-name="CHC影迷电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCymdy.png" group-title="数字高清",CHC影迷电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448841/main.m3u8
-#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCjtyy.png" group-title="数字高清",CHC家庭影院
+#EXTINF:-1 tvg-id="CHCjtyy" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCjtyy.png" group-title="数字高清",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8
-#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCdzdy.png" group-title="数字高清",CHC动作电影
+#EXTINF:-1 tvg-id="CHCdzdy" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCdzdy.png" group-title="数字高清",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8
-
-# 求索系列/5个频道 IPv6+浙江移动
-#EXTINF:-1 tvg-id="Qiusuo4k" tvg-name="求索纪录4K" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuo4K.png" group-title="数字高清",求索纪录4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="Qiusuo1" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuojl.png" group-title="数字高清",求索纪录
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="Qiusuo2" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuokx.png" group-title="数字高清",求索科学
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="Qiusuo3" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuodw.png" group-title="数字高清",求索动物
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="Qiusuo4" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuosh.png" group-title="数字高清",求索生活
-http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/cwjd.png" group-title="数字高清",重温经典
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 # 湖南/河南数字/8个频道 湖南移动
 #EXTINF:-1 tvg-id="chapd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/chapd.png" group-title="数字高清",茶频道
