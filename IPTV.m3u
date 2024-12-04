@@ -248,7 +248,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448
 #EXTINF:-1 tvg-id="CHCdzdy" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCdzdy.png" group-title="数字高清",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8
 #EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/cwjd.png" group-title="数字高清",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 
 # 湖南/河南数字/8个频道 湖南移动
 #EXTINF:-1 tvg-id="chapd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/chapd.png" group-title="数字高清",茶频道
