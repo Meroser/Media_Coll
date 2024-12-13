@@ -249,6 +249,8 @@ http://10.10.10.100/IPTV/woniu.php?id=10000102
 http://10.10.10.100/IPTV/woniu.php?id=e927bf35c5f4405f9e6b809365a1056b
 #EXTINF:-1 ,长沙县综合
 http://10.10.10.100/IPTV/woniu.php?id=changshaxianzonghe
+#EXTINF:-1 ,望城综合
+http://10.10.10.100/IPTV/woniu.php?id=6a26a49b9d734feaa33d27702aa5bf55
 #EXTINF:-1 ,宁乡综合
 http://10.10.10.100/IPTV/woniu.php?id=487fc3c3b09e454883772ed65340ab15
 #EXTINF:-1 ,精彩戏曲
