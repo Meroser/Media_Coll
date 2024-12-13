@@ -27,12 +27,14 @@ http://10.10.10.100/IPTV/woniu.php?id=10000038
 http://10.10.10.100/IPTV/woniu.php?id=10000039
 #EXTINF:-1 ,湖南教育频道
 http://10.10.10.100/IPTV/woniu.php?id=10000037
-#EXTINF:-1 ,常德新闻
-http://10.10.10.100/IPTV/woniu.php?id=10000100
-#EXTINF:-1 ,石门综合
-http://10.10.10.100/IPTV/woniu.php?id=adcae39460a9412daae1d917bbd2f462
-#EXTINF:-1 ,常德公共
-http://10.10.10.100/IPTV/woniu.php?id=7df1cf7e1e8e4ffcbb12fe739484ddd5
+#EXTINF:-1 ,长沙新闻综合
+http://10.10.10.100/IPTV/woniu.php?id=10000093
+#EXTINF:-1 ,长沙政法
+http://10.10.10.100/IPTV/woniu.php?id=ef16cc5a2cf1456b9360bdea7c4e9b56
+#EXTINF:-1 ,长沙文旅
+http://10.10.10.100/IPTV/woniu.php?id=changshawenlv
+#EXTINF:-1 ,长株潭三台
+http://10.10.10.100/IPTV/woniu.php?id=czt310000106
 #EXTINF:-1 ,CCTV-1高清
 http://10.10.10.100/IPTV/woniu.php?id=10000001
 #EXTINF:-1 ,CCTV-2高清
@@ -107,16 +109,8 @@ http://10.10.10.100/IPTV/woniu.php?id=10000034
 http://10.10.10.100/IPTV/woniu.php?id=10000033
 #EXTINF:-1 ,吉林卫视高清
 http://10.10.10.100/IPTV/woniu.php?id=10000035
-#EXTINF:-1 ,东南卫视高清
-http://10.10.10.100/IPTV/woniu.php?id=10000032
-#EXTINF:-1 ,贵州卫视
-http://10.10.10.100/IPTV/woniu.php?id=10000071
 #EXTINF:-1 ,广西卫视
 http://10.10.10.100/IPTV/woniu.php?id=10000016
-#EXTINF:-1 ,河南卫视
-http://10.10.10.100/IPTV/woniu.php?id=10000067
-#EXTINF:-1 ,甘肃卫视
-http://10.10.10.100/IPTV/woniu.php?id=10000070
 #EXTINF:-1 ,青海卫视
 http://10.10.10.100/IPTV/woniu.php?id=10000072
 #EXTINF:-1 ,山西卫视
@@ -155,6 +149,8 @@ http://10.10.10.100/IPTV/woniu.php?id=10000111
 http://10.10.10.100/IPTV/woniu.php?id=10000112
 #EXTINF:-1 ,央广购物精品
 http://10.10.10.100/IPTV/woniu.php?id=yangggwjpip
+#EXTINF:-1 ,好享购
+http://10.10.10.100/IPTV/woniu.php?id=20000250
 #EXTINF:-1 ,湖南导视-老年
 http://10.10.10.100/IPTV/woniu.php?id=laoniandaxueip
 #EXTINF:-1 ,书画频道
@@ -201,3 +197,189 @@ http://10.10.10.100/IPTV/woniu.php?id=100000189
 http://10.10.10.100/IPTV/woniu.php?id=100000190
 #EXTINF:-1 ,中国气象高清
 http://10.10.10.100/IPTV/woniu.php?id=10000166
+#EXTINF:-1 ,株洲新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000094
+#EXTINF:-1 ,东南卫视高清
+http://10.10.10.100/IPTV/woniu.php?id=10000032
+#EXTINF:-1 ,贵州卫视
+http://10.10.10.100/IPTV/woniu.php?id=10000071
+#EXTINF:-1 ,河南卫视
+http://10.10.10.100/IPTV/woniu.php?id=10000067
+#EXTINF:-1 ,甘肃卫视
+http://10.10.10.100/IPTV/woniu.php?id=10000070
+#EXTINF:-1 ,湘潭新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000106
+#EXTINF:-1 ,衡阳新闻综合
+http://10.10.10.100/IPTV/woniu.php?id=10000095
+#EXTINF:-1 ,邵阳新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000099
+#EXTINF:-1 ,邵阳公共
+http://10.10.10.100/IPTV/woniu.php?id=2b0bcc4ab792413194585be7167e9b52
+#EXTINF:-1 ,岳阳新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000104
+#EXTINF:-1 ,岳阳公共
+http://10.10.10.100/IPTV/woniu.php?id=800520d486ce4049a736d5ec636cb830
+#EXTINF:-1 ,常德新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000100
+#EXTINF:-1 ,常德公共
+http://10.10.10.100/IPTV/woniu.php?id=7df1cf7e1e8e4ffcbb12fe739484ddd5
+#EXTINF:-1 ,张家界新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000101
+#EXTINF:-1 ,益阳新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000105
+#EXTINF:-1 ,益阳公共
+http://10.10.10.100/IPTV/woniu.php?id=e0977ba3e6be42f5b4ae6e4f722a6a6e
+#EXTINF:-1 ,郴州新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000096
+#EXTINF:-1 ,郴州公共
+http://10.10.10.100/IPTV/woniu.php?id=a2d743846fca49859a0d789a50da2830
+#EXTINF:-1 ,永州新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000097
+#EXTINF:-1 ,永州公共
+http://10.10.10.100/IPTV/woniu.php?id=98a0e3904ccb46df914893ed4d6e90af
+#EXTINF:-1 ,怀化新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000103
+#EXTINF:-1 ,娄底综合
+http://10.10.10.100/IPTV/woniu.php?id=10000098
+#EXTINF:-1 ,娄底教育
+http://10.10.10.100/IPTV/woniu.php?id=loudijiaoyu
+#EXTINF:-1 ,湘西新闻
+http://10.10.10.100/IPTV/woniu.php?id=10000102
+#EXTINF:-1 ,湘西公共
+http://10.10.10.100/IPTV/woniu.php?id=e927bf35c5f4405f9e6b809365a1056b
+#EXTINF:-1 ,长沙县综合
+http://10.10.10.100/IPTV/woniu.php?id=changshaxianzonghe
+#EXTINF:-1 ,宁乡综合
+http://10.10.10.100/IPTV/woniu.php?id=487fc3c3b09e454883772ed65340ab15
+#EXTINF:-1 ,精彩戏曲
+http://10.10.10.100/IPTV/woniu.php?id=ningxiangxiqu
+#EXTINF:-1 ,醴陵综合
+http://10.10.10.100/IPTV/woniu.php?id=460cf461cc4d4557b81844f5590ebd58
+#EXTINF:-1 ,湘潭县综合
+http://10.10.10.100/IPTV/woniu.php?id=322460eeb5224805aac545108fe5e708
+#EXTINF:-1 ,湘乡综合
+http://10.10.10.100/IPTV/woniu.php?id=xiangxiangzonghe
+#EXTINF:-1 ,岳阳县综合
+http://10.10.10.100/IPTV/woniu.php?id=87bdba97cece4e18a713b1fb35ff7792
+#EXTINF:-1 ,华容综合
+http://10.10.10.100/IPTV/woniu.php?id=huarongzonghe
+#EXTINF:-1 ,湘阴新闻综合
+http://10.10.10.100/IPTV/woniu.php?id=xyxwzh20211116
+#EXTINF:-1 ,平江新闻
+http://10.10.10.100/IPTV/woniu.php?id=f86fb0e2382046f1828feb03af08785e
+#EXTINF:-1 ,汨罗综合
+http://10.10.10.100/IPTV/woniu.php?id=538f27f95d9d4ad4af3e745d4c22fa3b
+#EXTINF:-1 ,地方戏曲
+http://10.10.10.100/IPTV/woniu.php?id=difangxiqu
+#EXTINF:-1 ,临湘综合
+http://10.10.10.100/IPTV/woniu.php?id=8ecdfd3dda674d4aa4e0f18cc63c5f1f
+#EXTINF:-1 ,鼎城综合
+http://10.10.10.100/IPTV/woniu.php?id=f30e335cc7c34fd3a8fa26012c8bbb3a
+#EXTINF:-1 ,安乡新闻
+http://10.10.10.100/IPTV/woniu.php?id=e2a53d9e3c5a4511b928ee53509567b8
+#EXTINF:-1 ,汉寿综合
+http://10.10.10.100/IPTV/woniu.php?id=9c2ac9fc1b774f36b9ea0010a53673c6
+#EXTINF:-1 ,澧县电视台
+http://10.10.10.100/IPTV/woniu.php?id=2a03b5cc6e7e47919de8e6f47c6e7ef5
+#EXTINF:-1 ,临澧综合
+http://10.10.10.100/IPTV/woniu.php?id=506b4261b29345fd9a8c2ad9d1bb4384
+#EXTINF:-1 ,桃源综合
+http://10.10.10.100/IPTV/woniu.php?id=4c5cce7c803f409984301fe33d14cf95
+#EXTINF:-1 ,石门综合
+http://10.10.10.100/IPTV/woniu.php?id=adcae39460a9412daae1d917bbd2f462
+#EXTINF:-1 ,津市新闻
+http://10.10.10.100/IPTV/woniu.php?id=07a00750e5a748a3897834a8e5290eaf
+#EXTINF:-1 ,慈利综合
+http://10.10.10.100/IPTV/woniu.php?id=9c7781e73ef847eaa5e3c9121b7b7551
+#EXTINF:-1 ,桑植综合
+http://10.10.10.100/IPTV/woniu.php?id=46b23e418a394a7f821f7224ea9ea497
+#EXTINF:-1 ,南县综合
+http://10.10.10.100/IPTV/woniu.php?id=47175f85214345b68ba49bad50011fbe
+#EXTINF:-1 ,桃江电视台
+http://10.10.10.100/IPTV/woniu.php?id=d4e44f2b612d4859a4cd0ebc9caedf4b
+#EXTINF:-1 ,安化综合
+http://10.10.10.100/IPTV/woniu.php?id=8a2cce4a40014e02bb1e1f50984ae386
+#EXTINF:-1 ,沅江融媒
+http://10.10.10.100/IPTV/woniu.php?id=b4808ee04c3e47b7b1e5d4d72eebd0e5
+#EXTINF:-1 ,桂阳综合
+http://10.10.10.100/IPTV/woniu.php?id=91ecda143b2c47fea566a98338515998
+#EXTINF:-1 ,宜章综合
+http://10.10.10.100/IPTV/woniu.php?id=e5de3b3188fe405081ae217e128d8903
+#EXTINF:-1 ,永兴综合
+http://10.10.10.100/IPTV/woniu.php?id=c58cabdd43354c5cb9b4df9a020a1163
+#EXTINF:-1 ,嘉禾综合
+http://10.10.10.100/IPTV/woniu.php?id=b52724a23cf84096ae72e4b9bd220244
+#EXTINF:-1 ,临武综合
+http://10.10.10.100/IPTV/woniu.php?id=855d788d79ae422db583267bf4dfb9f0
+#EXTINF:-1 ,汝城综合
+http://10.10.10.100/IPTV/woniu.php?id=f186afe7c3e74f53a09227d59a76c60a
+#EXTINF:-1 ,桂东综合
+http://10.10.10.100/IPTV/woniu.php?id=d4a4feec0a414bcead9d6cf1913e7584
+#EXTINF:-1 ,安仁综合
+http://10.10.10.100/IPTV/woniu.php?id=64a5e97d21a745a189f4116ba1ccdaac
+#EXTINF:-1 ,资兴台
+http://10.10.10.100/IPTV/woniu.php?id=a1f0ee6423864122b9eabfdfbbe6b6f2
+#EXTINF:-1 ,祁阳综合
+http://10.10.10.100/IPTV/woniu.php?id=9861d48555294c83a41080bd2ac26a9e
+#EXTINF:-1 ,东安综合
+http://10.10.10.100/IPTV/woniu.php?id=9b124559c3b942f9bfc772cc4d7b0b3f
+#EXTINF:-1 ,双牌综合
+http://10.10.10.100/IPTV/woniu.php?id=25698698afb8428f9bfce31bd3668d63
+#EXTINF:-1 ,道县综合
+http://10.10.10.100/IPTV/woniu.php?id=f1a3a2267aa645eca5a369320e73e7d6
+#EXTINF:-1 ,江永综合
+http://10.10.10.100/IPTV/woniu.php?id=jiangyongzonghe
+#EXTINF:-1 ,宁远综合
+http://10.10.10.100/IPTV/woniu.php?id=ec3b0d0ee24c460e98f8d02a84fb9b3f
+#EXTINF:-1 ,蓝山综合
+http://10.10.10.100/IPTV/woniu.php?id=c2460ecb08f7422a9e709fb54dec3f70
+#EXTINF:-1 ,新田综合
+http://10.10.10.100/IPTV/woniu.php?id=xintianzonghe
+#EXTINF:-1 ,江华综合
+http://10.10.10.100/IPTV/woniu.php?id=8162c369be37479d903d6c26e8416576
+#EXTINF:-1 ,中方台
+http://10.10.10.100/IPTV/woniu.php?id=46d2d8ef1762486c939efe602615e86d
+#EXTINF:-1 ,沅陵综合
+http://10.10.10.100/IPTV/woniu.php?id=85e03a035fd3432baab9e7ea020e350c
+#EXTINF:-1 ,辰溪综合
+http://10.10.10.100/IPTV/woniu.php?id=01e028d5a3f24aabbfe319f1abe4f366
+#EXTINF:-1 ,溆浦时政
+http://10.10.10.100/IPTV/woniu.php?id=df9ea93e15244a299f353f8197cd3d5d
+#EXTINF:-1 ,会同时政
+http://10.10.10.100/IPTV/woniu.php?id=9993cd64139146218473d614eac6e211
+#EXTINF:-1 ,麻阳时政
+http://10.10.10.100/IPTV/woniu.php?id=c4cc2529934246018118b106a6082550
+#EXTINF:-1 ,新晃综合
+http://10.10.10.100/IPTV/woniu.php?id=cfcb5a30a948456e99b3ac385904d274
+#EXTINF:-1 ,芷江综合
+http://10.10.10.100/IPTV/woniu.php?id=a1bf910d76b64f4aaa4fc42516918d61
+#EXTINF:-1 ,靖州综合
+http://10.10.10.100/IPTV/woniu.php?id=9000877ef07a47ab828895688e7d3c71
+#EXTINF:-1 ,通道综合
+http://10.10.10.100/IPTV/woniu.php?id=cfe18026751e47c68f3f59acaeedd683
+#EXTINF:-1 ,洪江市综合
+http://10.10.10.100/IPTV/woniu.php?id=b1c411d01d3c40e4af65ef6edf5cb471
+#EXTINF:-1 ,双峰综合
+http://10.10.10.100/IPTV/woniu.php?id=03f1bf132f7b45aaa51d0bfde88a3154
+#EXTINF:-1 ,新化综合
+http://10.10.10.100/IPTV/woniu.php?id=97a47e98d0844e6ea29c4cb34f2be4cc
+#EXTINF:-1 ,冷水江综合
+http://10.10.10.100/IPTV/woniu.php?id=lengshuijiangzonghe
+#EXTINF:-1 ,涟源综合
+http://10.10.10.100/IPTV/woniu.php?id=a702d68cf1184bd883b5d29b3e81ffe2
+#EXTINF:-1 ,吉首综合
+http://10.10.10.100/IPTV/woniu.php?id=jishouzonghe
+#EXTINF:-1 ,泸溪电视台
+http://10.10.10.100/IPTV/woniu.php?id=2e5133847dda4c5784e8180cace41725
+#EXTINF:-1 ,凤凰时政
+http://10.10.10.100/IPTV/woniu.php?id=24278311982c40009ccd84af13690a18
+#EXTINF:-1 ,花垣时政
+http://10.10.10.100/IPTV/woniu.php?id=ae6f2b50469641889646a673057b1351
+#EXTINF:-1 ,保靖时政
+http://10.10.10.100/IPTV/woniu.php?id=bef73d40a0a74086906c11b71aba8674
+#EXTINF:-1 ,古丈综合
+http://10.10.10.100/IPTV/woniu.php?id=728d96c0554040faa5666f95acc8e0b2
+#EXTINF:-1 ,永顺综合
+http://10.10.10.100/IPTV/woniu.php?id=a83567e3219e47a1a244d0151631f72b
+#EXTINF:-1 ,龙山电视台
+http://10.10.10.100/IPTV/woniu.php?id=f554a8a367244f3cbaaa136baa6dfad8
