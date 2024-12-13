@@ -33,6 +33,16 @@
             "ext": "file://Download/TVbox_hndx.json"
         },
         {
+            "key": "IPTV_php",
+            "name": "🐦湖南移动┃点播",
+            "type": 3,
+            "api": "http://10.10.10.100/vod_hnyd.php",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "file://Download/TVbox_hndx.json"
+        },
+        {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
