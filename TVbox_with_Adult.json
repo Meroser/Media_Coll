@@ -35,7 +35,7 @@
         {
             "key": "IPTV_php",
             "name": "🐦湖南移动┃点播",
-            "type": 1,
+            "type": 4,
             "api": "http://10.10.10.100/vod_hnyd.php",
             "searchable": 1,
             "quickSearch": 0,
