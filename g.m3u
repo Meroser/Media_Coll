@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-Meroser.xml.gz" catchup="append" catchup-source="&st=${(b)yyyyMMddHHmmss}&ed=${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 ,CCTV-1
-http://10.10.10.100/IPTV/woniu.php?id=10000000
-#EXTINF:-1 ,湖南卫视高清
-http://10.10.10.100/IPTV/woniu.php?id=10000017
-#EXTINF:-1 ,湖南经视高清
-http://10.10.10.100/IPTV/woniu.php?id=10000040
-#EXTINF:-1 ,湖南娱乐高清
-http://10.10.10.100/IPTV/woniu.php?id=10000042
-#EXTINF:-1 ,湖南电影高清
-http://10.10.10.100/IPTV/woniu.php?id=10000044
-#EXTINF:-1 ,湖南都市高清
-http://10.10.10.100/IPTV/woniu.php?id=10000043
-#EXTINF:-1 ,湖南电视剧高清
-http://10.10.10.100/IPTV/woniu.php?id=10000045
-#EXTINF:-1 ,快乐购高清
-http://10.10.10.100/IPTV/woniu.php?id=10000047
-#EXTINF:-1 ,金鹰纪实高清
-http://10.10.10.100/IPTV/woniu.php?id=10000041
-#EXTINF:-1 ,湖南爱晚高清
-http://10.10.10.100/IPTV/woniu.php?id=10000046
-#EXTINF:-1 ,金鹰卡通高清
-http://10.10.10.100/IPTV/woniu.php?id=10000036
-#EXTINF:-1 ,重温经典高清
-http://10.10.10.100/IPTV/woniu.php?id=10000038
-#EXTINF:-1 ,导视频道
-http://10.10.10.100/IPTV/woniu.php?id=10000039
-#EXTINF:-1 ,湖南教育频道
-http://10.10.10.100/IPTV/woniu.php?id=10000037
-#EXTINF:-1 ,长沙新闻综合
-http://10.10.10.100/IPTV/woniu.php?id=10000093
-#EXTINF:-1 ,长沙政法
-http://10.10.10.100/IPTV/woniu.php?id=ef16cc5a2cf1456b9360bdea7c4e9b56
-#EXTINF:-1 ,长沙文旅
-http://10.10.10.100/IPTV/woniu.php?id=changshawenlv
-#EXTINF:-1 ,长株潭三台
-http://10.10.10.100/IPTV/woniu.php?id=czt310000106
 #EXTINF:-1 ,CCTV-1高清
 http://10.10.10.100/IPTV/woniu.php?id=10000001
 #EXTINF:-1 ,CCTV-2高清
@@ -75,6 +39,43 @@ http://10.10.10.100/IPTV/woniu.php?id=10000107
 http://10.10.10.100/IPTV/woniu.php?id=100000192ip
 #EXTINF:-1 ,CCTV-5+高清
 http://10.10.10.100/IPTV/woniu.php?id=10000005
+
+#EXTINF:-1 ,湖南卫视高清
+http://10.10.10.100/IPTV/woniu.php?id=10000017
+#EXTINF:-1 ,湖南经视高清
+http://10.10.10.100/IPTV/woniu.php?id=10000040
+#EXTINF:-1 ,湖南娱乐高清
+http://10.10.10.100/IPTV/woniu.php?id=10000042
+#EXTINF:-1 ,湖南电影高清
+http://10.10.10.100/IPTV/woniu.php?id=10000044
+#EXTINF:-1 ,湖南都市高清
+http://10.10.10.100/IPTV/woniu.php?id=10000043
+#EXTINF:-1 ,湖南电视剧高清
+http://10.10.10.100/IPTV/woniu.php?id=10000045
+#EXTINF:-1 ,快乐购高清
+http://10.10.10.100/IPTV/woniu.php?id=10000047
+#EXTINF:-1 ,金鹰纪实高清
+http://10.10.10.100/IPTV/woniu.php?id=10000041
+#EXTINF:-1 ,湖南爱晚高清
+http://10.10.10.100/IPTV/woniu.php?id=10000046
+#EXTINF:-1 ,金鹰卡通高清
+http://10.10.10.100/IPTV/woniu.php?id=10000036
+#EXTINF:-1 ,重温经典高清
+http://10.10.10.100/IPTV/woniu.php?id=10000038
+#EXTINF:-1 ,导视频道
+http://10.10.10.100/IPTV/woniu.php?id=10000039
+#EXTINF:-1 ,湖南教育频道
+http://10.10.10.100/IPTV/woniu.php?id=10000037
+#EXTINF:-1 ,长沙新闻综合
+http://10.10.10.100/IPTV/woniu.php?id=10000093
+#EXTINF:-1 ,长沙政法
+http://10.10.10.100/IPTV/woniu.php?id=ef16cc5a2cf1456b9360bdea7c4e9b56
+#EXTINF:-1 ,长沙文旅
+http://10.10.10.100/IPTV/woniu.php?id=changshawenlv
+#EXTINF:-1 ,长株潭三台
+http://10.10.10.100/IPTV/woniu.php?id=czt310000106
+
+
 #EXTINF:-1 ,江苏卫视高清
 http://10.10.10.100/IPTV/woniu.php?id=10000021
 #EXTINF:-1 ,浙江卫视高清
@@ -133,6 +134,7 @@ http://10.10.10.100/IPTV/woniu.php?id=10000015
 http://10.10.10.100/IPTV/woniu.php?id=6288e4c2fde94c2d95c826b46cab8097
 #EXTINF:-1 ,卡酷动画
 http://10.10.10.100/IPTV/woniu.php?id=78a7ba5c1fd94a2f9de7e1d66942ec1b
+
 #EXTINF:-1 ,CETV-1
 http://10.10.10.100/IPTV/woniu.php?id=e720025811004fdeba31bae73a22bcd3
 #EXTINF:-1 ,CETV-4
