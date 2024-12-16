@@ -53,14 +53,6 @@ http://10.10.10.100/IPTV/woniu.php?id=10000110
 http://10.10.10.100/IPTV/woniu.php?id=10000111
 #EXTINF:-1 tvg-id="CGTN-F" tvg-name="CGTN-F" tvg-logo="" group-title="央视",CGTN-F
 http://10.10.10.100/IPTV/woniu.php?id=10000112
-#EXTINF:-1 tvg-id="央广购物精品" tvg-name="央广购物精品" tvg-logo="" group-title="央视",央广购物精品
-http://10.10.10.100/IPTV/woniu.php?id=yangggwjpip
-#EXTINF:-1 tvg-id="好享购" tvg-name="好享购" tvg-logo="" group-title="央视",好享购
-http://10.10.10.100/IPTV/woniu.php?id=20000250
-#EXTINF:-1 tvg-id="环球购物" tvg-name="环球购物" tvg-logo="" group-title="央视",环球购物
-http://10.10.10.100/IPTV/woniu.php?id=20000258
-#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="" group-title="央视",优购物
-http://10.10.10.100/IPTV/woniu.php?id=20000254
 
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165230819.png" group-title="湖南",湖南经视
 http://10.10.10.100/IPTV/woniu.php?id=10000040
@@ -215,8 +207,6 @@ http://10.10.10.100/IPTV/woniu.php?id=10000093
 http://10.10.10.100/IPTV/woniu.php?id=ef16cc5a2cf1456b9360bdea7c4e9b56
 #EXTINF:-1 tvg-id="长沙文旅" tvg-name="长沙文旅" tvg-logo="" group-title="地方",长沙文旅
 http://10.10.10.100/IPTV/woniu.php?id=changshawenlv
-#EXTINF:-1 tvg-id="长株潭三台" tvg-name="长株潭三台" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2024/04/27/20240427135248848.png" group-title="地方",长株潭三台
-http://10.10.10.100/IPTV/woniu.php?id=czt310000106
 #EXTINF:-1 tvg-id="长沙县综合" tvg-name="长沙县综合" tvg-logo="" group-title="地方",长沙县综合
 http://10.10.10.100/IPTV/woniu.php?id=changshaxianzonghe
 #EXTINF:-1 tvg-id="望城综合" tvg-name="望城综合" tvg-logo="" group-title="地方",望城综合
