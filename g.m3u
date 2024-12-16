@@ -32,13 +32,12 @@ http://10.10.10.100/IPTV/woniu.php?id=10000064
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165136768.png" group-title="央视",CCTV-15
 http://10.10.10.100/IPTV/woniu.php?id=10000062
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="" group-title="央视",CCTV-16
-http://10.10.10.100/IPTV/woniu.php?id=100000191ip
+http://10.10.10.100/IPTV/woniu.php?id=100000192ip
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165153652.png" group-title="央视",CCTV-17
 http://10.10.10.100/IPTV/woniu.php?id=10000065
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="" group-title="央视",CCTV-4K
 http://10.10.10.100/IPTV/woniu.php?id=10000107
-#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="" group-title="央视",CCTV16-4K
-http://10.10.10.100/IPTV/woniu.php?id=100000192ip
+
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="" group-title="央视",CETV-1
 http://10.10.10.100/IPTV/woniu.php?id=e720025811004fdeba31bae73a22bcd3
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="" group-title="央视",CETV-4
@@ -64,14 +63,8 @@ http://10.10.10.100/IPTV/woniu.php?id=10000044
 http://10.10.10.100/IPTV/woniu.php?id=10000043
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165414581.png" group-title="湖南",湖南电视剧
 http://10.10.10.100/IPTV/woniu.php?id=10000045
-#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165301458.png" group-title="湖南",快乐购
-http://10.10.10.100/IPTV/woniu.php?id=10000047
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165425929.png" group-title="湖南",金鹰纪实
-http://10.10.10.100/IPTV/woniu.php?id=10000041
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2022/10/08/20221008155620884.png" group-title="湖南",湖南爱晚
 http://10.10.10.100/IPTV/woniu.php?id=10000046
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165401982.png" group-title="湖南",金鹰卡通
-http://10.10.10.100/IPTV/woniu.php?id=10000036
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165914809.png" group-title="湖南",湖南教育频道
 http://10.10.10.100/IPTV/woniu.php?id=10000037
 #EXTINF:-1 tvg-id="导视频道" tvg-name="导视频道" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165902174.png" group-title="湖南",导视频道
@@ -159,14 +152,18 @@ http://10.10.10.100/IPTV/woniu.php?id=10000038
 http://10.10.10.100/IPTV/woniu.php?id=78a7ba5c1fd94a2f9de7e1d66942ec1b
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226172525683.png" group-title="数字",书画频道
 http://10.10.10.100/IPTV/woniu.php?id=10000077
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226172303029.png" group-title="数字",快乐垂钓
-http://10.10.10.100/IPTV/woniu.php?id=10000084
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226170645520.png" group-title="数字",四海钓鱼
-http://10.10.10.100/IPTV/woniu.php?id=10000051
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165401982.png" group-title="数字",金鹰卡通
+http://10.10.10.100/IPTV/woniu.php?id=10000036
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226165425929.png" group-title="数字",金鹰纪实
+http://10.10.10.100/IPTV/woniu.php?id=10000041
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226172534056.png" group-title="数字",茶频道
 http://10.10.10.100/IPTV/woniu.php?id=10000085
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226170635528.png" group-title="数字",先锋乒羽
 http://10.10.10.100/IPTV/woniu.php?id=10000080
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226172303029.png" group-title="数字",快乐垂钓
+http://10.10.10.100/IPTV/woniu.php?id=10000084
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226170645520.png" group-title="数字",四海钓鱼
+http://10.10.10.100/IPTV/woniu.php?id=10000051
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226172251713.png" group-title="数字",东方财经
 http://10.10.10.100/IPTV/woniu.php?id=10000087
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226172352019.png" group-title="数字",生活时尚
