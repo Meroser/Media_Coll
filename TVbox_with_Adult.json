@@ -490,7 +490,7 @@
             "api": "https://www.jingpinx.com/api.php/provide/vod/"
         }
     ],
-    "logo": "https://mirror.ghproxy.com/raw.githubusercontent.com/Meroser/Media_Coll/main/TVlogo/mgtv_logo.png",
+    "logo": "https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/mgtv_logo.png",
     "lives": [
         {
             "name": "🍋湖南联通┃直播",
