@@ -155,12 +155,6 @@ http://127.0.0.1/iptv/woniu/10000067/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226170404010.png" group-title="卫视",甘肃卫视
 http://127.0.0.1/iptv/woniu/10000070/index.m3u8
 
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="http://wntv3imgcdn.hunancatv.com:3309/zypt/epg/pic/2020/02/26/20200226172614036.png" group-title="数字",CHC影迷电影
-http://127.0.0.1/iptv/woniu/10000081/index.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="数字",CHC动作电影
-http://127.0.0.1/iptv/woniu/100000189/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="数字",CHC家庭影院
-http://127.0.0.1/iptv/woniu/100000190/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="数字",重温经典
 http://127.0.0.1/iptv/woniu/10000038/index.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="" group-title="数字",卡酷动画
