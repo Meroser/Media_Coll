@@ -181,7 +181,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047
 #EXTINF:-1 tvg-id="Hunan_xtxw" tvg-name="湘潭新闻" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Hunan/xtxw.png" group-title="湖南频道",湘潭新闻
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047451/main.m3u8
 #EXTINF:-1 tvg-id="Hunan_hyxw" tvg-name="衡阳新闻" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Hunan/hyxw.png" group-title="湖南频道",衡阳新闻
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000035000000442109/main.m3u8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000032000000431041/main.m3u8
 #EXTINF:-1 tvg-id="Hunan_hygg" tvg-name="衡阳公共" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Hunan/hygg.png" group-title="湖南频道",衡阳公共
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000032000000431042/main.m3u8
 #EXTINF:-1 tvg-id="Hunan_syxw" tvg-name="邵阳新闻" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Hunan/syxw.png" group-title="湖南频道",邵阳新闻
